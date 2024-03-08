@@ -14,12 +14,12 @@ It is project which uses opencv for accessing camera, numpy for mathematical cal
 6. Finally draw the points stored in array on the frames and canvas .
 
 <b> Output pictures </b>
-    !(/Output01.png)
+    <img src="https://github.com/itz-mahekbhartiya/Virtual-pen-and-eraser/blob/9d89f3b1640db5badf0c8c9a7a63a2b258da647d/Outputs/Output%2001.png">
     Drawing symbols
-    !(/Output02.png)
-    !(/Output03.png)
+    <img src="https://github.com/itz-mahekbhartiya/Virtual-pen-and-eraser/blob/9d89f3b1640db5badf0c8c9a7a63a2b258da647d/Outputs/Output%2002.png">
+    <img src="https://github.com/itz-mahekbhartiya/Virtual-pen-and-eraser/blob/9d89f3b1640db5badf0c8c9a7a63a2b258da647d/Outputs/Output%2003.png">
     Writing "Hello world !"
-    !(/Output04.png)
+    <img src="https://github.com/itz-mahekbhartiya/Virtual-pen-and-eraser/blob/9d89f3b1640db5badf0c8c9a7a63a2b258da647d/Outputs/Output%2004.png">
 
 <b> Team members </b>
 1. Mahek Bhartiya
